@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+                              T R O K A M
+                          Fair Search Engine
+
+   Copyright (C) 2017, Nicolas Slusarenko
+                       nicolas.slusarenko@trokam.com
+
+   This file is part of Trokam.
+
+   Trokam is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+
+   Trokam is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with Trokam. If not, see <http://www.gnu.org/licenses/>.
+
+-->
+
+<messages>
+
+    <message id="whatis.menu">What is Trokam?</message>
+    <message id="whatis.body">
+
+        <div class="container">
+
+            <div class="page-header">
+                <h1>What is Trokam?</h1>
+            </div>
+
+            <p class="lead">Trokam is a project aimed to develop a fair online search engine.</p>
+
+            <p class="lead">Trokam respect your privacy, it does not track your preferences.</p>
+
+            <p class="lead">Trokam search results are ad-free.</p>
+
+            <div class="page-header">
+                <h1>What does <em>Fair</em> Search Engine means?</h1>
+            </div>
+
+            <p class="lead">Fair Search Engine means that,</p>
+           
+            <ul>
+                <li class="lead"><strong>Search results are auditable.</strong> The user could know why the web sites are listed in a particular order.</li>
+                <li class="lead"><strong>Algorithms upon which is build are available as
+                <a href="https://www.gnu.org/philosophy/free-sw.html" target="_blank">free software.</a></strong> The user is enbled to reproduce and analyse the same processing used by Trokam.</li>
+            </ul>
+
+            <div class="page-header">
+                <h1>Could I use Trokam?</h1>
+            </div>
+
+            <p class="lead">Yes, on-going efforts are on developing <strong><a href="http://step2.trokam.com/">step2.trokam.com</a></strong>. <strong>Try it!</strong></p>
+
+            <p class="lead">You could try the prototype in <strong><a href="http://step1.trokam.com/">step1.trokam.com</a></strong>. Its development is frozen.</p>
+
+            <div class="page-header">
+                <h1>Who is developing Trokam?</h1>
+            </div>
+
+            <p class="lead">Trokam is been developed by <a href="https://www.linkedin.com/in/nicolasslusarenko" target="_blank">Nicolas Slusarenko</a> in his spare time, with
+                            the help of a small but (hopefully!) enlarging community. <a href="http://project.trokam.com/proc/info/contact">Get in contact!</a></p>
+
+            <p>&nbsp;<br/></p>
+
+            <p>&nbsp;<br/></p>
+
+        </div>
+    </message>
+
+    <message id="improve.menu">Improve Trokam</message>
+    <message id="improve.body">
+
+        <div class="container">
+
+            <div class="jumbotron">
+
+                <div>
+                    <h1>Help to Improve Trokam</h1>
+                </div>
+
+                <p>There several ways you could help to improve Trokam.</p>
+
+            </div>
+
+            <div class="page-header">
+                <h1>Programming and Database Design</h1>
+            </div>
+
+            <p class="lead">Trokam runs on <a href="https://www.linuxfoundation.org/" target="_blank">GNU/Linux</a>, is programmed in
+                            <a href="https://isocpp.org/" target="_blank">C++</a> and relies
+                            on <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a> to store the data.</p>
+
+            <p class="lead">You could browse <a href="https://github.com/trokam" target="_blank">all the code upon which Trokam is build</a>, because it is Free Software released as <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" target="_blank">GPLv2</a> or <a href="https://www.gnu.org/licenses/quick-guide-gplv3.html" target="_blank">GPLv3</a>.</p>
+
+            <p class="lead">Are you experienced on GNU/Linux, C++ programming, postgreSQL? Would you like to contribute? <a href="http://project.trokam.com/proc/info/contact">Get in contact!</a></p>
+
+            <div class="page-header">
+                <h1>Translations</h1>
+            </div>
+
+            <p class="lead">Hopefully, Trokam would be useful to everyone on our planet.</p>
+
+            <p class="lead">For that purpose we need to translate Trokam web site to every language nowadays in-use.</p>
+
+            <p class="lead">Check the current translations, <a href="http://project.trokam.com/proc/info/contact">get in contact</a> and you might became one of the translators.</p>
+
+            <div class="page-header">
+                <h1>Features and User Experience</h1>
+            </div>
+
+            <p class="lead">Trokam would be benefited from new ideas and user's feedback.</p>
+
+            <p class="lead">Would you like that Trokam have a new feature? <a href="http://project.trokam.com/proc/info/contact">Happy to know about it!</a></p>
+
+            <p>&nbsp;<br/></p>
+
+        </div>
+
+    </message>
+
+    <message id="whysponsor.menu">Why Sponsor Trokam?</message>
+    <message id="whysponsor.body">
+
+        <div class="container">
+
+            <div class="row">
+                
+              <div class="col-md-4 alert alert-warning" role="alert">
+
+                <div class="page-header">
+                    <h1>Trokam's Social Contract</h1>
+                </div>
+
+                <p><strong>Trokam is an information service on the Internet.</strong> It analyses openly
+                           available information on the Internet, process it and upon
+                           request provides search results to users.</p>
+                           
+                <p>&nbsp;<br/></p>
+
+                <p><strong>Trokam is a Fair Search Engine,</strong> which implies that,
+                
+                    <ul style="list-style-type:circle">
+                        <li><strong>Search results are auditable.</strong>
+                            The user could know why the web sites are listed in a particular order.</li>
+                        <li><strong>Algorithms upon which is build are available as
+                            <a href="https://www.gnu.org/philosophy/free-sw.html" target="_blank">free software.</a></strong> 
+                            The user is enbled to reproduce and analyse the same processing done by Trokam.</li>
+                    </ul>                                       
+
+                </p>
+
+                <p>&nbsp;<br/></p>
+
+                <p><strong>Trokam runs entirely on the cloud.</strong> Trokam or Trokam's developers
+                           will not buy hardware nor build any premisses.</p>
+                
+                <p>&nbsp;<br/></p>
+                
+                <p><strong>Trokam will no mix nor display advertisement with search results.</strong>
+                           The results does not have any commercial bias.
+                           Trokam does not sale any service nor any product. </p>
+               
+                <p>&nbsp;<br/></p>
+               
+                <p><strong>Trokam does not track your references.</strong>
+                           Trokam does not bias the results with hidden information taken from you.</p>
+
+                <p>&nbsp;<br/></p>
+
+                <p><strong>Trokam does not store nor publish what is been searched.</strong>
+                           Trokam respect your privacy.</p>
+
+                <hr/>
+
+                <div class="page-header">
+                    <p>
+                        <strong>
+                            Do you have any comment on this Social Contract?
+                            <a href="http://project.trokam.com/proc/info/contact">Happy to know about it!</a>
+                        </strong>
+                    </p>
+                </div>
+              
+              </div>
+
+              <div class="col-md-8">
+
+                <div class="page-header">
+                    <h1>Why Sponsor Trokam?</h1>
+                </div>
+
+                <p class="lead">Do you think is worth an ad-free search engine?</p>
+
+                <p class="lead">Do you like auditable results? Do you care about privacy?</p>
+
+                <p class="lead">If you agree, <strong>you might consider sponsor Trokam with U$5 a year.</strong></p>
+
+                <p class="lead">Trokam rely exclusively on sponsorships. When you became a sponsor, Trokam
+                                commits with you to fulfill its Social Contract.</p>
+                                
+              </div>
+              
+            </div>
+
+            <p>&nbsp;<br/></p>
+
+            <p>&nbsp;<br/></p>
+
+        </div>
+
+    </message>
+
+    <message id="devplan.menu">Development Plan</message>
+    <message id="devplan.body">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-8">
+
+                    <!-- ================ Step 2 ================ -->
+
+                    <h1>Step 2: Make it Useful [active]</h1>
+                    <p>Build an usable system and discover if the community
+                       fund this development.</p>
+
+                    <h3>Technical</h3>
+                    
+                    <ul style="list-style-type:circle">
+                        <li>Improve the ranking algorithm.</li>
+                        <li>Recurrently index 100 million pages.</li>
+                        <li>Speed up the search and display of results.</li>
+                    </ul>                                          
+
+                    <h3>Reaction of Community</h3>
+
+                    <ul style="list-style-type:circle">
+                        <li>Do the users find it useful?</li>
+                        <li>Do the community fund by sponsorships this development?</li>
+                    </ul>                                          
+
+                    <p>&nbsp;<br/></p>
+
+                    <hr/>
+
+                    <!-- ================ Step 1 ================ -->
+
+                    <h1>Step 1: Verify the Concept [closed]</h1>
+                    <p>Build an online search engine entirely on cloud services, open source
+                       and know the reception by the community.</p>
+
+                    <h3>Technical</h3>
+                    
+                    <ul style="list-style-type:circle">
+                        <li>Build an online search engine entirely on cloud services.</li>
+                        <li>Develop all the subsystems: spider, database, ranking algorithm and server.</li>
+                        <li>Give the users the analysis.</li>
+                    </ul>                                          
+
+                    <h3>Reaction of Community</h3>
+
+                    <ul style="list-style-type:circle">
+                        <li>Do the users like an open source, ad-free search engine?</li>
+                        <li>Will the community get involved in a development of Trokam?</li>
+                    </ul>                                          
+
+                    <h3>Conclusion</h3>
+
+                    <ul style="list-style-type:circle">
+                        <li>Technical objectives were fulfilled, a service is running in
+                            <strong><a href="http://step1.trokam.com/" target="_blank">step1.trokam.com</a></strong>
+                            based on these requirements.</li>
+                        <li>People enjoyed using the protoype. The feature that most people liked was 
+                            that Trokam does not have any advertisement. Second feature was that they
+                            have access to the analysis and it is build on free software.</li>
+                        <li>An extensive
+                            <strong><a href="https://search.slashdot.org/story/15/04/18/2032227/ask-slashdot-what-features-would-you-like-in-a-search-engine">discussion in Slashdot</a></strong>
+                            revealed that Trokam address latent needs of the communtiy.</li>
+                        <li>Users found a limitation the time the system takes to display the results
+                            (the system is slow) and the few pages indexed (just a few thousands).</li>
+                    </ul>                                          
+
+                    <p>&nbsp;<br/></p>
+
+                </div>
+
+                <div class="col-md-4 alert alert-success">
+
+                    <div class="page-header">
+                        <h1>Features Wanted!</h1>
+                        <p>There are several ideas to be consider in the next <strong>steps</strong> of development
+                           of Trokam.</p>
+                    </div>
+
+                    <p><strong>Autocomplete Search Box</strong> Would be practical that the search
+                               box suggest some terms and phrases once you enter a few characters.</p>
+                    <p><strong>Image Search</strong> Search for images in web pages.</p>
+                    <p><strong>Map Search</strong> Search for cities, streets and places in maps.</p>
+                    <p><strong>Command Line Search</strong> A command to make searches in the
+                               text console and got the results in plain text, json format or xml
+                               format.</p>
+                    <p><strong>Translation into Different Languages</strong> The interface and this
+                               informative pages should be available in Spanish, Russian, Cantonese,
+                               Mandarin, Hindi, Japanese, etc.</p>
+
+                    <div class="page-header">
+                        <p>
+                            <strong>
+                                Would you like to add one?
+                                <a href="http://project.trokam.com/proc/info/contact">Happy to know about it!</a>
+                            </strong>
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <p>&nbsp;<br/></p>
+
+        </div>
+
+    </message>
+
+    <message id="contact.menu">Contact</message>
+    <message id="contact.body">
+
+        <div class="container">
+
+            <div class="jumbotron">
+
+                <div>
+                    <h1>Contact</h1>
+                </div>
+
+            </div>
+
+            <p>&nbsp;<br/></p>
+            
+            <p class="lead">Trokam is been developed by <a href="https://www.linkedin.com/in/nicolasslusarenko" target="_blank">Nicolas Slusarenko</a>.</p>
+
+            <p class="lead">Ideas, suggestions, critics, bugs, inquiries? Get in touch!</p>
+            
+            <p class="lead">Please write to <strong> nico (arroba) trokam (punkt) com</strong></p>
+
+            <p>&nbsp;<br/></p>
+            
+            <p>&nbsp;<br/></p>
+                        
+        </div>
+
+    </message>
+
+    <message id="sponsornow.menu">Sponsor Now!</message>
+    <message id="sponsornow.body">
+
+        <div class="container">
+
+            <div class="jumbotron">
+
+                <div>
+                    <h1>Sponsor Now!</h1>
+                </div>
+
+            </div>
+
+            <p class="lead">Contribute funding the development of Trokam</p>
+
+            <p>&nbsp;<br/></p>
+
+            <div class="alert alert-info" role="alert">
+                <strong>Not ready!</strong> There are still some work to do in order to receive your
+                sponsorhip. These buttons doesn't do any action. Would you like to be notified once it is ready? 
+                <strong><a href="http://project.trokam.com/proc/info/contact">Just drop a line telling you want to be notified</a></strong>
+                or <strong><a href="https://twitter.com/trokam" target="_blank">follow Trokam on Twitter</a></strong>.
+                Thanks!
+            </div>
+
+            <p>&nbsp;<br/></p>
+
+            <div class="row">
+                
+                <div class="col-md-4">
+                    <p>&nbsp;<br/></p>
+                </div>
+                
+                <div class="col-md-4">
+
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>People</th>
+                                <th>Companies and Organisations</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <button type="button" class="btn btn-lg btn-primary">Sponsor</button>
+                                </td>
+                                <td>
+                                    <button type="button" class="btn btn-lg btn-success">Sponsor</button>
+                                </td>
+                            </tr>
+                            
+                            <tr>
+                                <td>
+                                    People are suggested to sponsor Trokam with US$5 a year.
+                                    You could modify that value.
+                                </td>
+                                <td>
+                                    Companies and Organisations are suggested to sponsor Trokam with US$100 a year.
+                                    You could modify that value.
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                    <p>&nbsp;<br/></p>
+                </div>
+                
+            </div>
+            
+            <p>&nbsp;<br/></p>
+
+        </div>
+
+    </message>
+
+    <message id="news.menu">News</message>
+    <message id="news.body">
+
+        <div class="container">
+
+          <div class="jumbotron">
+            <h1>Trokam News</h1>
+            <p>Do you want to know what is going-on with Trokam?<br/>
+               There is some chance you will find it here!</p>
+          </div>
+
+          <div class="row">
+
+            <div class="col-sm-8 blog-main">
+
+              <div class="blog-post">
+                <h2 class="blog-post-title">Closing Step 1</h2>
+                <p class="blog-post-meta">January 2, 2018 by <a href="http://project.trokam.com/proc/info/contact">Nicolas Slusarenko</a></p>
+
+                <p class="text-right">
+                    <em>On a morning from a Bogart movie ...</em><br/>
+                    <strong>Year of the Cat, Al Stewart</strong>
+                </p>
+
+                <p>&nbsp;<br/></p>
+
+                <p>Three years ago I have started doing some experiments in order
+                   to develop an online search engine.</p>
+
+                <p>In those trials I have developed a spider, a ranking algorithm and
+                   a database model to store the data.</p>
+                   
+                <p>Also, I tried different services to install Trokam servers: Xlhost,
+                   Digital Ocean and Amazon Web Services.</p>
+                   
+                <p>Once I had a <a href="http://step1.trokam.com/">working prototype</a> I showed it
+                   to some friends a colleagues. Their reaction caused me a deep impression.</p>
+                
+              </div><!-- /.blog-post -->
+
+            </div><!-- /.blog-main -->
+
+            <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+
+              <div class="sidebar-module">
+                <h4>External</h4>
+                <ol class="list-unstyled">
+                  <li><a href="https://youtu.be/wA_MkFKHkrA">Trokam, an online search engine developed in C++.</a><br/>YouTube, October 31, 2017<br/></li>
+                  <li>&nbsp;</li>
+                  <li><a href="https://search.slashdot.org/story/15/04/18/2032227/ask-slashdot-what-features-would-you-like-in-a-search-engine">What Features Would You Like In a Search Engine?</a><br/>Slashdot, April 18, 2015<br/></li>
+                  <li>&nbsp;</li>
+                  <li><a href="https://www.linkedin.com/pulse/why-i-developed-trokam-nicolas-slusarenko">Why I developed Trokam?</a><br/>LinkedIn, March 17, 2015<br/></li>
+                </ol>
+              </div>
+                        
+            </div><!-- /.blog-sidebar -->
+
+          </div><!-- /.row -->
+
+            <p>&nbsp;<br/></p>
+
+        </div><!-- /.container -->
+
+    </message>
+
+    <message id="footlinks">
+
+        <footer class="footer">
+            <div class="container pagebase">
+              <div class="row">
+
+                <div class="col-sm-4">
+                    <h3>Follow</h3>
+                    <ul>
+                        <li><a class="pagebase" href="http://project.trokam.com/proc/info/news">Trokam News</a></li>
+                        <li><a class="pagebase" href="https://twitter.com/trokam" target="_blank">Trokam in Twitter</a></li>
+                        <li><a class="pagebase" href="https://github.com/trokam" target="_blank">Trokam in GitHub</a></li>
+                    </ul>
+                    
+                    <h3>Sponsor</h3>
+                    <ul>
+                        <li><a class="pagebase" href="http://project.trokam.com/proc/info/whysponsor">Why Sponsor?</a></li>
+                        <li><a class="pagebase" href="http://project.trokam.com/proc/info/sponsornow">Sponsor Now!</a></li>
+                    </ul>
+
+                </div>
+
+                <div class="col-sm-4">
+                    <h3>Try it!</h3>
+                    <ul>
+                        <li><strong><a class="pagebase" href="http://step2.trokam.com/" target="_blank">Trokam Search – step2 – active</a></strong></li>
+                        <li><strong><a class="pagebase" href="http://step1.trokam.com/" target="_blank">Trokam Search – step1 – frozen</a></strong></li>
+                    </ul>
+                    
+                    <h3>Contact</h3>
+                    <ul>
+                        <li><strong><a class="pagebase" href="http://project.trokam.com/proc/info/contact">Get in touch!</a></strong></li>
+                    </ul>
+                </div>
+
+                <div class="col-sm-4">
+                    <h3>Your Rights</h3>
+                    <ul>
+                        <li><strong><a class="pagebase" href="https://www.gnu.org/philosophy/free-sw.html" target="_blank">What is Free Software?</a></strong></li>
+                        <li><strong><a class="pagebase" href="http://en.wikipedia.org/wiki/Net_neutrality" target="_blank">Net Neutrality</a></strong></li>
+                        <li><strong><a class="pagebase" href="http://endsoftpatents.org/" target="_blank">End Software Patents</a></strong></li>
+                    </ul>
+
+                    <h3>Organisations</h3>
+                    <ul>
+                        <li><a class="pagebase" href="http://www.fsf.org/" target="_blank">The Free Software Foundation</a></li>
+                        <li><strong><a class="pagebase" href="https://www.eff.org/" target="_blank">The Electronic Frontier Foundation</a></strong></li>
+                    </ul>
+                </div>
+
+              </div>
+            </div>
+        </footer>
+
+    </message>
+
+</messages>
